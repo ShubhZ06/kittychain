@@ -95,11 +95,13 @@ Open [http://localhost:3000](http://localhost:3000)
 
 | Field | Value |
 |---|---|
+| Contract Address | [`0xE321f1fd9e81e6f347c2CbbC871eeb8fc4b126F6`](https://testnet.monadexplorer.com/address/0xE321f1fd9e81e6f347c2CbbC871eeb8fc4b126F6) |
 | Network Name | Monad Testnet |
 | Chain ID | 10143 |
 | RPC URL | https://testnet-rpc.monad.xyz |
 | Currency | MON |
-| Explorer | https://testnet.monadexplorer.com |
+| Explorer | [https://testnet.monadexplorer.com](https://testnet.monadexplorer.com) |
+| Contract Verification | [View on Monad Explorer](https://testnet.monadexplorer.com/address/0xE321f1fd9e81e6f347c2CbbC871eeb8fc4b126F6) |
 
 ---
 
